@@ -1,0 +1,1 @@
+export default function Home() { return <div style={{marginTop: 20}}><h3>?? Prototype Ready for Investor Demo</h3><p>Full version includes: A3 Reports, 5-Why Analysis, SPC Charts, SOP Generator</p></div>; }
